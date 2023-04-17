@@ -1,0 +1,15 @@
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\refint\DesignPatterns.dll
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+C:\TUP\2a-TERCER-C\Programacion III\Practica-prog3\DesignPatterns\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
